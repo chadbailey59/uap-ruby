@@ -1,3 +1,3 @@
 [submodule "vendor/ua-parser"]
 	path = vendor/ua-parser
-	url = git@github.com:chadbailey59/ua-core.git
+	url = git@github.com:chadbailey59/uap-core.git
